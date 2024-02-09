@@ -11,11 +11,7 @@
       компанії, рядка тегів і тд.
    </header>
    <h1>Головний заголовок сторінки</h1>
-   <section>
       <h2>Розділ 1</h2>
-   </section>
-   <footer>
       <h5>DenysOnly</h5>
-   </footer>
 </body>
 </html>
