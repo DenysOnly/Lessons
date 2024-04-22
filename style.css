@@ -1,1 +1,23 @@
-
+.gerb 
+        {
+            height: 70px;
+        }
+.posl
+        {
+        	height: 50px;
+        }
+.bad-script-regular {
+	font-family: "Bad Script", cursive;
+	font-weight: 100%;
+	font-style: normal;
+	height: 100%;
+}
+.text1 {
+	font-family: Comic Sans MS;
+}
+.text2 {
+	font-family: Time New Roman;
+}
+.text3 {
+	font-family: Time New Roman;
+}
